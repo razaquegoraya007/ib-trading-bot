@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./trading_bot_",
+        "./trading_bot_"
+    ]
+}
